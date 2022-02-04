@@ -1,0 +1,36 @@
+/* ----------------------------------------------------------------
+	Responsive CSS
+-----------------------------------------------------------------*/
+
+@media (max-width: 1199px) {
+	
+}
+
+
+@media (min-width: 992px) and (max-width: 1199px) {
+
+}
+
+
+@media (max-width: 991px) {
+
+
+}
+
+
+@media (min-width: 768px) and (max-width: 991px) {
+
+}
+
+@media (max-width: 767px) {
+	
+}
+
+@media (min-width: 480px) and (max-width: 767px) {
+
+}
+
+@media (max-width: 479px) {
+
+
+}
