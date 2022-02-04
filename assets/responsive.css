@@ -8,21 +8,31 @@
 
 
 @media (min-width: 992px) and (max-width: 1199px) {
+    .homePageimg img {
+        width: 50%;
+    }
 
 }
 
 
 @media (max-width: 991px) {
+    .homePageimg img {
+        width: 50%;
+    }
 
 
 }
 
 
 @media (min-width: 768px) and (max-width: 991px) {
+   
 
 }
 
 @media (max-width: 767px) {
+    .homePageimg img {
+        width: 100%;
+    }
 	
 }
 
