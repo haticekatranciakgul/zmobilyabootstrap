@@ -46,6 +46,11 @@ nav img {
     transition: 0.5s;
     margin: 1em;
 }
+.butonRight ul li a {
+    color: #f28c09 !important;
+    text-decoration: none;
+
+}
 
 .butonRight ul li span {
     position: absolute;
